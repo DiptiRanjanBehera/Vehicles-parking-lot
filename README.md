@@ -1,1 +1,3 @@
 # Vehicles-parking-lot
+This code defines a parking lot simulation that allows vehicles to enter and exit the lot. The parking lot is represented as a 2-dimensional list of spaces, where each space can be occupied by a single vehicle. Vehicles can be of three types: car, truck, or motorcycle. When a vehicle enters the lot, it is assigned to the first available space that can accommodate its type. The user can view the state of the parking lot and select a row and space to add or remove a vehicle. When a vehicle exits the lot, the duration of its stay is calculated and the user is shown the fare for their parking session.
+Jupyter or idle is required to run this project
